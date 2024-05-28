@@ -27,7 +27,7 @@ TechStack:-
 
 	1. Clone the repository:
 	
-		bash git clone https://github.com/creativeVaibhav/Real-Estate.git
+		git clone https://github.com/creativeVaibhav/Real-Estate.git
 	
 	2. Change into the project directory: cd Real-Estate/api
 	
