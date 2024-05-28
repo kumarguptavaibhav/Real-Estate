@@ -23,4 +23,33 @@ TechStack:-
 	BACKEND: NodeJS, ExpressJS
 	DataBase: MongoDB
 
-GITHUB Link: https://github.com/kumarguptavaibhav/Real-Estate
+ HOW TO RUN CODE ON YOUR SYSTEM
+
+	1. Clone the repository:
+	
+		bash git clone https://github.com/creativeVaibhav/Real-Estate.git
+	
+	2. Change into the project directory: cd Real-Estate/api
+	
+	3. Install server dependencies:
+	
+		npm install
+	
+	4. Install client dependencies:
+	
+		cd client npm install
+	
+	Change .env file in the api directory with your configuration settings.
+	
+		MONGO = "MONGODB URI" 
+  		JWT_SECRET_KEY = your key
+	
+	Start the development server:
+
+  		cd Real-Estate/api
+		node app.js
+
+  		cd Real-Estate/client
+    		npm run dev
+
+GITHUB Link: https://github.com/creativeVaibhav/Real-Estate
