@@ -1,9 +1,10 @@
-import { useContext, useEffect, useRef, useState, useNotificationStore } from "react";
+import { useContext, useEffect, useRef, useState, } from "react";
 import "./chat.scss";
 import { AuthContext } from "../../context/AuthContext";
 import apiRequest from "../../lib/apiRequest";
 import { format } from "timeago.js";
 import { SocketContext } from "../../context/SocketContext";
+import { useNotificationStore } from "../../lib/notificationStore";
 
 function Chat({chats}) {
   const [chat, setChat] = useState(null);
