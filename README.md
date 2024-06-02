@@ -48,6 +48,6 @@ HOW TO CODE ON YOUR SYSTEM
 	node app.js
 
 	cd Real-Estate/client
-		npm run dev
+	npm run dev
 
 GITHUB Link: https://github.com/kumarguptavaibhav/Real-Estate
