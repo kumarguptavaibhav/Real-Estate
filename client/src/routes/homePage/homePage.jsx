@@ -12,21 +12,21 @@ function HomePage() {
     <div className="homePage">
       <div className="textContainer">
         <div className="wrapper">
-          <h1 className="title">Find Real Estate & Get Your Dream Place</h1>
+          <h1 className="title">Get Your Dream Home by Searching Real Estate</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
-            explicabo suscipit cum eius, iure est nulla animi consequatur
-            facilis id pariatur fugit quos laudantium temporibus dolor ea
-            repellat provident impedit!
+          Explore a diverse range of properties, from cozy apartments to luxurious homes, tailored
+           to meet your unique preferences and budget.Our user-friendly platform simplifies the entire 
+           process, offering detailed listings, high-quality images to help you make 
+           informed decisions.
           </p>
           <SearchBar />
           <div className="boxes">
             <div className="box">
-              <h1>16+</h1>
+              <h1>10+</h1>
               <h2>Years of Experience</h2>
             </div>
             <div className="box">
-              <h1>200</h1>
+              <h1>100</h1>
               <h2>Award Gained</h2>
             </div>
             <div className="box">
