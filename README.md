@@ -40,7 +40,7 @@ HOW TO CODE ON YOUR SYSTEM
 	4. Change .env file in the api directory with your configuration settings.
 
 	MONGO = "MONGODB URI" 
-	JWT_SECRET_KEY = your key
+	JWT_SECRET_KEY = "your key"
 
 	5. Start the development server:
 
