@@ -19,7 +19,7 @@ Features:-
 8. Property Details and Descriptions: Each property listing should have comprehensive details and descriptions, including property features, room dimensions, amenities, nearby attractions, and any unique selling points. High-quality images and virtual tours can provide a more immersive experience for users.
 
 TechStack:-
-	FRONTEND: HTML, SCSS, JavaScript, ReactJS
+	FRONTEND: HTML, SCSS, JavaScript, ReactJS, Leaflet.js
 	BACKEND: NodeJS, ExpressJS, Socket.io, Zustand
 	DataBase: MongoDB
 
